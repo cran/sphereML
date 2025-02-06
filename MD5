@@ -1,0 +1,15 @@
+d2ab635707b703d83c74dbdc16f9295b *DESCRIPTION
+5196c8ce5c49dc2c351967be8f59d0bd *LICENSE
+2a271aa07be1e6a1fb1da4f05e386329 *NAMESPACE
+27d0411651167e1a6a7d070cc9c29ae7 *R/start_sphereML.R
+d5374504f76f1fbcb98b2728ef57ee52 *inst/shiny-apps/extdata/df_categoric.rda
+0c036d592aa6b5d02328f105e8a71012 *inst/shiny-apps/extdata/df_numeric.rda
+f565ce2397954abcbfe0ebbdedb5f011 *inst/shiny-apps/extdata/info_gain_categoric.rda
+2fcbfefe8fa54c8e638bf067e8a66f13 *inst/shiny-apps/extdata/numeric_d.rda
+8e181719c1f6736d3908bdb5a5b46232 *inst/shiny-apps/extdata/numeric_p.rda
+0bdcdda8e203efe7699cf260df8af4ea *inst/shiny-apps/extdata/par_categoric_p.rda
+7c8001aa4abbfafa8864a1e7d3041a3d *inst/shiny-apps/extdata/par_numeric_d.rda
+8cbc9e75f20d8473e75c9f2047b62544 *inst/shiny-apps/extdata/par_numeric_p.rda
+ab8b1d14924bfa8486c2dbe02a277952 *inst/shiny-apps/server.R
+a6b834350c9ede482389f91d9a5ae5b6 *inst/shiny-apps/ui.R
+4c13df910a5ea5ef1d6c0e67c6e551fd *man/start_sphereML.Rd
