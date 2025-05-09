@@ -2,9 +2,9 @@ Package: sphereML
 Type: Package
 Title: Analyzing Students' Performance Dataset in Physics Education
         Research (SPHERE) using Machine Learning (ML)
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
-    person("Purwoko Haryadi", "Santoso", email = "purwokoharyadisantoso@unsulbar.ac.id", role = c("aut", "cre"), comment = c(ORCID = "<0000-0002-7093-5309>")),
+    person("Purwoko Haryadi", "Santoso", email = "purwokoharyadisantoso@unsulbar.ac.id", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-7093-5309")),
     person("Edi", "Istiyono", role = "ctb"),
     person("Haryanto", "Haryanto", role = "ctb"))
 Maintainer: Purwoko Haryadi Santoso <purwokoharyadisantoso@unsulbar.ac.id>
@@ -12,17 +12,17 @@ Description: A simple package facilitating ML based analysis for physics educati
 BugReports: https://github.com/santosoph/sphereML/issues
 URL: https://github.com/santosoph/sphereML
 License: MIT + file LICENSE
+Depends: R (>= 3.50)
 Imports: shiny, shinydashboard, spheredata, lavaan, semPlot, CTT, mirt,
         shinycssloaders, FSelectorRcpp, randomForest, caret, caTools,
         pROC, GA, readxl
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-02-06 14:43:15 UTC; ASUS
-Author: Purwoko Haryadi Santoso [aut, cre]
-    (<https://orcid.org/0000-0002-7093-5309>),
+Packaged: 2025-05-09 16:54:10 UTC; ASUS
+Author: Purwoko Haryadi Santoso [aut, cre] (ORCID:
+    <https://orcid.org/0000-0002-7093-5309>),
   Edi Istiyono [ctb],
   Haryanto Haryanto [ctb]
-Depends: R (>= 3.5.0)
 Repository: CRAN
-Date/Publication: 2025-02-06 20:10:01 UTC
+Date/Publication: 2025-05-09 17:10:06 UTC
